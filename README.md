@@ -32,7 +32,9 @@
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgement)
 
-## 🧐 About <a href="https://cesarparada.github.io/consola" target = "_blank">Demo</a>
+## 🧐 About
+
+<a href="https://cesarparada.github.io/consola/" target= "_blank">Demo</a>
 
 Write about 1-2 paragraphs describing the purpose of your project.
 
